@@ -1,2 +1,4 @@
-git is awesome! new line
-experiment with amend
+I love Hexlet!
+Something important.
+and something
+and something line
